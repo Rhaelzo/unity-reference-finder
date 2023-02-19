@@ -15,3 +15,5 @@ Unity recommended version: **2020.3f and above**.
 
 ## Created by:
 Francisco "Rhaelzo" Leites, from the Soft Sausages (a portuguese development team)
+
+![alt text](../blob/main/soft_sausage.png "Soft Sausage logo")
