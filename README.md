@@ -11,7 +11,7 @@ The first release has the reference finder set of features working, and further 
 - Finds references of Object-type within Prefab Preview scene;
 - Finds references of Object-type within assets from the project.
 
-Unity recommended version: 2020.3f and above.
+Unity recommended version: **2020.3f and above**.
 
 ## Created by:
 Francisco "Rhaelzo" Leites, from the Soft Sausages (a portuguese development team)
