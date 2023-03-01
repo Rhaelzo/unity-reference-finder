@@ -13,6 +13,14 @@ The first release has the reference finder set of features working, and further 
 
 Unity recommended version: **2020.3f and above**.
 
+## Feedback:
+
+Any feedback regarding code, visuals or features would be appreciated!
+
+## Bug reporting:
+
+If you encounter any bugs, you can report it in the 'Issues' tab of the repository. A document regarding issue creation and best practices for this repository will be added as soon as possible.
+
 ## Created by:
 Francisco "Rhaelzo" Leites, from the Soft Sausages (a portuguese development team)
 
